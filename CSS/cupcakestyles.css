@@ -1,0 +1,9 @@
+li.flashy {
+    color: red;
+    font-style: italic;
+}
+
+li.best {
+    color: aqua;
+    font-weight: bold;
+}
